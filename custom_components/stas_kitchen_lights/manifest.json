@@ -9,6 +9,6 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/slavengorama/stas_kitchen_lights/issues",
   "requirements": ["requests","requests"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "zeroconf": []
 }
