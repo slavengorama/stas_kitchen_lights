@@ -7,8 +7,8 @@ class Relay:
 
 def getDevices():
     devices = []
-    devices.append({'name': 'Весь свет', 'id': 0})
-    devices.append({'name': 'Верхний свет', 'id': 1})
-    devices.append({'name': 'Нижний левый свет', 'id': 2})
-    devices.append({'name': 'Нижний правый свет', 'id': 3})
+    devices.append({'_device_name': 'Весь свет','model_name': 'lamp', '_id': 0})
+    devices.append({'_device_name': 'Верхний свет', 'model_name': 'lamp', '_id': 1})
+    devices.append({'_device_name': 'Нижний левый свет', 'model_name': 'lamp', '_id': 2})
+    devices.append({'_device_name': 'Нижний правый свет', 'model_name': 'lamp', '_id': 3})
     return devices
