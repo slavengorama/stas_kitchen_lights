@@ -1,0 +1,14 @@
+{
+  "domain": "stas_kitchen_lights",
+  "name": "Stas Kitchen Lights",
+  "codeowners": ["@slavengorama"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/slavengorama/stas_kitchen_lights",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/slavengorama/stas_kitchen_lights/issues",
+  "requirements": ["requests","requests"],
+  "version": "0.0.1",
+  "zeroconf": []
+}
