@@ -2,7 +2,7 @@
   "domain": "stas_kitchen_lights",
   "name": "Stas Kitchen Lights",
   "codeowners": ["@slavengorama"],
-  "config_flow": false,
+  "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/slavengorama/stas_kitchen_lights",
   "homekit": {},
